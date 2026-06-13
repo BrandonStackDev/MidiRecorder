@@ -1,0 +1,15 @@
+out/
+build/
+.vs/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+Debug/
+Release/
+x64/
+out.ly
+out.txt
+song_project.txt
